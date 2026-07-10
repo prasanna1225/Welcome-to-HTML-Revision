@@ -1,6 +1,6 @@
-# 🌐 Welcome to HTML Revision!
+# 🌐 Welcome to HTML Revision Hub!
 
-Welcome to **HTML Revision!** — a simple and interactive website created to make HTML learning and revision easier.
+Welcome to **HTML Revision hub!** — a simple and interactive website created to make HTML learning and revision easier.
 
 Whether you're a beginner starting your web development journey or someone looking to refresh your HTML knowledge, this project provides a structured collection of HTML topics with clear explanations and practical examples.
 
@@ -25,6 +25,7 @@ This project also serves as my personal HTML revision guide. By building each to
 
 * 🧱 HTML5 (Primary Technology)
 * 🎨 CSS3 (Minimal Styling)
+* JavaScript(Functionality)
 
 ## 🎯 Project Goal
 
